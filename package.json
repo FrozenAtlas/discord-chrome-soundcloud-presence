@@ -16,13 +16,13 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FrozenAtlas/Chrome-Soundcloud-Discord-Presence"
+    "url": "git+https://github.com/FrozenAtlas/discord-chrome-soundcloud-presence"
   },
   "keywords": [
     "discord"
   ],
   "bugs": {
-    "url": "https://github.com/FrozenAtlas/Chrome-Soundcloud-Discord-Presence/issues"
+    "url": "https://github.com/FrozenAtlas/discord-chrome-soundcloud-presence/issues"
   },
-  "homepage": "https://github.com/FrozenAtlas/Chrome-Soundcloud-Discord-Presence#readme"
+  "homepage": "https://github.com/FrozenAtlas/discord-chrome-soundcloud-presence#readme"
 }

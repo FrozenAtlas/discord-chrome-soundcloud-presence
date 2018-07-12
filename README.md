@@ -1,17 +1,21 @@
 ## Overview
 
-<img src="https://i.imgur.com/Rg79DD6.png" width="20%" />
+<img src="https://i.imgur.com/b4EyqpV.png" width="20%" />
 
 This is just a copy of jczstudios work with discord-chrome-presence(https://github.com/jczstudios/discord-chrome-presence) modified to only get soundcloud.
 
 Discord-Chrome-SoundCloud-Presence allows you to set your Discord Rich Presence to whatever song you're listening to in Chrome. An additional Chrome extension is included in order to rely site information.
 
+While not listening to anything the URL status will be shown.
+
 ## Installation
 
-REQUIRES NPM (https://www.npmjs.com/get-npm)
+**REQUIRES NPM** (https://www.npmjs.com/get-npm)
 ```
-git clone
-cd discord-chrome-presence
+git clone https://github.com/FrozenAtlas/discord-chrome-soundcloud-presence 
+```
+or download as .zip
+```cd discord-chrome-soundcloud-presence
 npm install
 npm start
 ```
