@@ -1,6 +1,6 @@
 ## Overview
 
-<img src="https://imgur.com/a/T0NpArc" width="20%" />
+<img src="https://i.imgur.com/b4EyqpV.png" width="20%" />
 
 This is just a copy of jczstudios work with discord-chrome-presence(https://github.com/jczstudios/discord-chrome-presence) modified to only get soundcloud.
 
