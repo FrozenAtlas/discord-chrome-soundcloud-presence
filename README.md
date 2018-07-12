@@ -1,6 +1,6 @@
 ## Overview
 
-<img src="https://i.imgur.com/Rg79DD6.png" width="20%" />
+<img src="https://imgur.com/a/T0NpArc" width="20%" />
 
 This is just a copy of jczstudios work with discord-chrome-presence(https://github.com/jczstudios/discord-chrome-presence) modified to only get soundcloud.
 
@@ -11,7 +11,7 @@ Discord-Chrome-SoundCloud-Presence allows you to set your Discord Rich Presence 
 REQUIRES NPM (https://www.npmjs.com/get-npm)
 ```
 git clone
-cd discord-chrome-presence
+cd discord-chrome-soundcloud-presence
 npm install
 npm start
 ```
