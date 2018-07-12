@@ -10,7 +10,7 @@ While not listening to anything the URL status will be shown.
 
 ## Installation
 
-REQUIRES NPM (https://www.npmjs.com/get-npm)
+**REQUIRES NPM** (https://www.npmjs.com/get-npm)
 ```
 git clone https://github.com/FrozenAtlas/discord-chrome-soundcloud-presence
 cd discord-chrome-soundcloud-presence
