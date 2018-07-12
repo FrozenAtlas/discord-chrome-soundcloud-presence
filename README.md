@@ -12,7 +12,7 @@ While not listening to anything the URL status will be shown.
 
 REQUIRES NPM (https://www.npmjs.com/get-npm)
 ```
-git clone
+git clone https://github.com/FrozenAtlas/discord-chrome-soundcloud-presence
 cd discord-chrome-soundcloud-presence
 npm install
 npm start
