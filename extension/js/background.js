@@ -1,9 +1,8 @@
 function updatePresence(tabId, changeInfo, tab) {
   var sc = "soundcloud.com";
   var urlstring = tab.url;
-  if (tab.active === true && !(tab.url == undefined) && urlstring.includes(sc)) {
+  if (!(tab.url == undefined) && urlstring.includes(sc)) {
     var url = new URL(tab.url);
-
     var data = {
       url: tab.url,
       details: url.hostname,
@@ -23,7 +22,6 @@ function updatePresence(tabId, changeInfo, tab) {
       "processData": false,
       "data": JSON.stringify(data)
     }
-
     $.ajax(settings);
   }
 }
