@@ -23,6 +23,7 @@ Then, install the Chrome extension from the extension directly. (Visit chrome://
 ## Usage
 Install the Google Chrome extension, included in the extension directory. Then, start the server using
 ```start.bat```
+
 Discord will need to be open and the Chrome extension needs to be added (see Installation). For now, your presence updates only when the active tab is updated [Chrome tabs API](https://developer.chrome.com/extensions/tabs#event-onUpdated). For example, refreshing the page, navigation, etc.
 
 ## License
