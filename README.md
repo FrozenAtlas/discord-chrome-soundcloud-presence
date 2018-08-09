@@ -15,17 +15,14 @@ While not listening to anything the URL status will be shown.
 git clone https://github.com/FrozenAtlas/discord-chrome-soundcloud-presence 
 ```
 or download as .zip
-```cd discord-chrome-soundcloud-presence
-npm install
-npm start
-```
+
+open ```install.bat```
+
 Then, install the Chrome extension from the extension directly. (Visit chrome://extensions, enable "Developer Mode", "Load Unpacked", choose the "Extension" directory inside this repository you cloned.
 
 ## Usage
 Install the Google Chrome extension, included in the extension directory. Then, start the server using
-```
-npm start
-```
+```start.bat```
 Discord will need to be open and the Chrome extension needs to be added (see Installation). For now, your presence updates only when the active tab is updated [Chrome tabs API](https://developer.chrome.com/extensions/tabs#event-onUpdated). For example, refreshing the page, navigation, etc.
 
 ## License
