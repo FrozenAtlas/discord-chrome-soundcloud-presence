@@ -7,6 +7,10 @@ This is just a copy of jczstudios work with discord-chrome-presence(https://gith
 Discord-Chrome-SoundCloud-Presence allows you to set your Discord Rich Presence to whatever song you're listening to in Chrome. An additional Chrome extension is included in order to rely site information.
 
 While not listening to anything the URL status will be shown.
+## Requirements
+
+Node.js (https://nodejs.org/en/)
+NPM (https://www.npmjs.com/get-npm)
 
 ## Installation
 
