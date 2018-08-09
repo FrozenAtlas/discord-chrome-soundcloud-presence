@@ -21,19 +21,12 @@ open ```install.bat``` or
 npm install
 npm start
 ```
-```
-npm start
-```
 
 Then, install the Chrome extension from the extension directly. (Visit chrome://extensions, enable "Developer Mode", "Load Unpacked", choose the "Extension" directory inside this repository you cloned.
 
 ## Usage
 Install the Google Chrome extension, included in the extension directory. Then, start the server using
 ```start.bat``` or
-```cd discord-chrome-soundcloud-presence
-npm install
-npm start
-```
 ```
 npm start
 ```
